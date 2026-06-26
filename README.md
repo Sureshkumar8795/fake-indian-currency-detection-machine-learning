@@ -196,4 +196,4 @@ This project is intended for educational and research purposes.
 
 **Sureshkumar**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Sureshkumar8795/fake-indian-currency-detection-machine-learning.git
